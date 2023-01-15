@@ -1,0 +1,284 @@
+.navbar-logo-section {
+    width: 200px;
+    height: 80px;
+}
+
+.services-section-main-heading {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.services-section-main-paragraph {
+    color: #616c7c;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.service-section-card {
+    padding: 15px;
+}
+
+.service-section-card-icon {
+    width: 100px;
+    padding: 5px;
+}
+
+.service-section-card-inside-heading {
+    font-size: 25px;
+    color: #183b56;
+}
+
+.service-section-card-inside-paragraph {
+    font-size: 15px;
+    color: #616c7c;
+    font-weight: 500;
+}
+.our-products-main-heading {
+    font-weight: bold;
+    color: #183b56;
+    font-size: 40px;
+}
+
+.our-product-section-card-one {
+    width: 100%;
+    height: 50vh;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    border-radius: 20px;
+    color: white;
+    padding: 15px;
+}
+
+.our-product-section-card-two {
+    width: 100%;
+    height: 50vh;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    border-radius: 20px;
+    color: white;
+    padding: 15px;
+}
+
+.our-product-section-card-common-heading {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.our-product-section-card-common-paragraph {
+    font-weight: 500;
+}
+
+.our-product-section-card-common-button {
+    background-color: white;
+    border-width: 0px;
+    color: #ff9f00;
+    border-radius: 25px;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.our-products-all-offer-heading {
+    text-align: right;
+    color: #ff9f00;
+    font-size: 15px;
+    font-weight: bold;
+}
+.complete-special-offer-section {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+}
+
+.special-offer-section-image {
+    width: 100%;
+}
+
+.special-offer-section-content-heading {
+    font-weight: bold;
+    color: #ad2167;
+    font-size: 40px;
+}
+
+.special-offer-section-content-paragraph {
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.special-offer-section-content-span {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.special-offer-section-content-headingtwo {
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+
+.special-offer-section-content-spantwo {
+    color: yellow;
+}
+
+.special-offer-section-content-paragraph-carddetail {
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+
+}
+
+.trending-blog-section-complete {
+    background-color: white;
+    color: #959ead;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.trending-blog-primary-heading-top {
+    font-weight: bold;
+    font-size: 35px;
+    padding: 10px 0px 10px 0px;
+    color: #183b56;
+}
+
+.trending-blog-card-container {
+    padding: 0px;
+}
+
+.trending-blog-complete-card-section {
+    padding: 0px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.trending-blog-complete-card-section-image {
+    width: 100%;
+}
+
+.trending-blog-complete-card-section-content {
+    padding: 15px;
+}
+
+.trending-blog-card-section-tophead {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.trending-blog-section-bottomhead {
+    font-size: 25px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.trending-blog-card-section-paragraph {
+    color: #9aa5b1;
+}
+
+.ahreflink-section {
+    color: #ff9f00;
+    font-weight: 550;
+}
+
+.ahreflink-arrow {
+    color: #ff9f00;
+}
+
+.explore-offer-deals-background {
+    background-color: #f5f7fa;
+}
+
+.explore-deals-offers-main-heading {
+    font-weight: bold;
+    color: #183b56;
+    font-size: 45px;
+    padding: 30px 0px 30px 0px;
+}
+
+.explore-deals-offers-card-setting {
+    background-color: white;
+    padding: 20px;
+}
+
+.explore-deals-offers-card-heading {
+    font-weight: bold;
+    font-size: 35px;
+    color: #183b56;
+}
+
+.explore-deals-offers-flex-inside {
+    padding: 15px;
+}
+
+.explore-deals-offers-flex-inside-image {
+    width: 100%;
+    border-radius: 40px;
+}
+
+.explore-deals-offers-flex-inside-paragraph {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.explore-deals-offers-seealloffer-arrow {
+    color: #ff9f00;
+    font-weight: bold;
+    font-size: 25px;
+}
+.complete-contact-us-section {
+    background-color: #f5f7fa;
+    padding: 20px;
+}
+
+.contact-us-section-haading {
+    font-weight: bold;
+    font-size: 30px;
+    color: #183b56;
+}
+
+.contact-us-section-button-customized {
+    color: #ff9f00;
+    border-style: solid;
+    border-color: #ff9f00;
+    border-width: 2px;
+    background-color: transparent;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+}
+.complete-footer-section-background {
+    background-color: #0d2436;
+    color: #5a7184;
+}
+
+.footer-section-logo-image {
+    width: 50%;
+}
+
+.footer-section-social-icon {
+    height: 25px;
+    width: 25px;
+    background-color: #152c3e;
+    margin: 20px;
+    border-radius: 100px;
+}
+
+.footer-section-paragraph-sectionone {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.footer-section-heading-bottom {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.footer-section-paragraph-two {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.horizontal-rule {
+    background-color: #5a7184;
+    border-width: 2px;
+}
